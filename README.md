@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**szynl/szynl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Hi, I'm Serena! </b><picture><img src = "./assets/comp.gif" width = 50px></picture></h1>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <picture><img src = "./assets/cat.gif" width = 50px></picture> About me
+
+<br>
+
+- I'm Serena, a prepenultimate Advanced Computing student at the University of Sydney. I love music, marine biology and all things mathematical!
+
+- Although I only started programming in February, I've developed a solid understanding of Python and R. In my free time, I'm currently learning Java and C++ as well as teaching myself about trading.
+
+- I'm always looking to contribute to various projects and collaborate with others! You can contact me at <a href="mailto:serenazhuoyanli@protonmail.com">serenazhuoyanli@protonmail.com or come say hi to me on Discord.
+<br>
