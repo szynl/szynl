@@ -7,9 +7,10 @@
 
 <br>
 
-- I'm Serena, a prepenultimate Advanced Computing student at the University of Sydney. I love music, marine biology and all things mathematical!
+- I'm Serena, a prepenultimate computer science student at the University of Sydney. I love music, marine biology and all things mathematical!
 
-- Although I only started programming in February, I've developed a solid understanding of Python and R. In my free time, I'm currently learning Java and C++ as well as teaching myself about trading.
+- Although I only started programming in February, I've already developed a pretty solid understanding of Python, R and LaTeX. I've managed to dabble in a bit of C++ for game development as well as some HTML/CSS during this time, but right now I'm mainly learning Java.
 
-- I'm always looking to contribute to various projects and collaborate with others! You can contact me at <a href="mailto:serenazhuoyanli@protonmail.com">serenazhuoyanli@protonmail.com or come say hi to me on Discord.
+- You can contact me at <a href="mailto:serenazhuoyanli@protonmail.com">serenazhuoyanli@protonmail.com or come say hi to me on Discord. I'm always looking to contribute to various projects and collaborate with others!
+
 <br>
