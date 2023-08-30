@@ -9,7 +9,7 @@
 
 - I'm Serena, a prepenultimate computer science student at the University of Sydney. I love music, marine biology and all things mathematical!
 
-- Although I only started programming in February, I've already developed a pretty solid understanding of Python and R for data science. I've also managed to dabble in a bit of C++ for game development during this time and I'm currently learning Java.
+- Although I only started programming in February, I've already developed a pretty solid understanding of Python and R for data science. I'm primarily learning Java at the moment but have also worked with C++ for game development.
 
 - You can contact me at <a href="mailto:serenazhuoyanli@protonmail.com">serenazhuoyanli@protonmail.com or come say hi to me on Discord. I'm always looking to contribute to various projects and collaborate with others!
 
