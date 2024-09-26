@@ -1,9 +1,9 @@
 
-<h1 align="center"><b>Hi, I'm Serena! </b><picture><img src = "./assets/comp.gif" width = 50px></picture></h1>
+<h1 align="center"><b>Hi, I'm Serena! </b><picture><img src = "butterflies.gif" width = 50px></picture></h1>
 
 <br>
 
-## <picture><img src = "./assets/cat.gif" width = 50px></picture> About me
+## <picture><img src = "cat.gif" width = 50px></picture> About me
 
 <br>
 
