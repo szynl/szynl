@@ -1,1 +1,1 @@
-I'm Serena, a cybersecurity student in my penultimate year at the University of Sydney. Outside of semester, you can find me studying for certifications, building projects and learning Russian! 
+I'm Serena, a computer science student in my penultimate year at the University of Sydney. Currently building a project with ESP32 microcontrollers!
