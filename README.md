@@ -1,4 +1,3 @@
-![Serena's Stats](https://github-readme-stats.vercel.app/api?username=szynl&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
 ![Static Badge](https://github-readme-streak-stats.herokuapp.com/?user=szynl&theme=graywhite&hide_border=false)
 
 ### About me 👋
