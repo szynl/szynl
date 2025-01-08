@@ -1,7 +1,7 @@
 ![Static Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=szynl&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 
 ### About me 👋
-🎓 I'm a Bachelor of Advanced Computing student at the University of Sydney about to enter my penultimate year.
+🎓 I'm a Bachelor of Advanced Computing student at the University of Sydney in my penultimate year.
 
 🔨 I'm currently working on a two-way internetwork communication device system using ESP32 microcontrollers.
 
