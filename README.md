@@ -3,9 +3,7 @@
 ### About me 👋
 🎓 I'm a Bachelor of Advanced Computing student at the University of Sydney in my penultimate year.
 
-🔨 I'm currently working on a two-way internetwork communication device system using ESP32 microcontrollers.
-
-🔍 I'm <ins>actively looking for embedded roles</ins> and would love to connect! You can find me below: 
+🔍 Actively seeking opportunities to contribute to software and hardware projects! Find me below:
 
 ---
 [![Static Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/serenazhuoyanli/)
