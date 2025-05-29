@@ -6,4 +6,4 @@
 
 ---
 [![Static Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/serenazhuoyanli/)
-[![Static Badge](https://img.shields.io/badge/Email-black)](mailto:seli6857@uni.sydney.edu.au)
+[![Static Badge](https://img.shields.io/badge/Email-black)](mailto:lizhuoyanserena@gmail.com)
