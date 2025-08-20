@@ -1,8 +1,13 @@
 ![Static Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=szynl&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 
 ### About me 👋
-🎓 I'm a Bachelor of Advanced Computing student at the University of Sydney in my penultimate year.  
-🔍 I'm actively seeking opportunities to contribute to software and hardware projects! You can find me below:
+I'm Serena, a 3rd year Bachelor of Computing student at the University of Sydney majoring in Computer Science. I'm currently building a dockerised TF2 marketplace monitoring bot with a friend to improve my scripting and containerisation skills before starting my cloud internship this summer!   
+
+### My setup ❤️
+**GPU**: MSI GeForce RTX 4060  
+**CPU**: AMD Ryzen 5 7500F  
+**RAM**: Corsair Vengeance 32GB 6800MHz DDR5  
+**PSU**: Gigabyte P650SS 650W  
 
 ---
 [![Static Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/serenazhuoyanli/)
