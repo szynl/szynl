@@ -6,7 +6,7 @@ I'm Serena, a 3rd year Bachelor of Computing student at the University of Sydney
 ### My setup ❤️
 **GPU**: MSI GeForce RTX 4060  
 **CPU**: AMD Ryzen 5 7500F  
-**RAM**: Corsair Vengeance 32GB 6800MHz DDR5  
+**RAM**: Klevv Fit V 32GB 6800MHz DDR5  
 **PSU**: Gigabyte P650SS 650W  
 
 ---
