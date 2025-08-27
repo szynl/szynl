@@ -3,7 +3,8 @@
 ### About me 👋
 I'm Serena, a 3rd year Bachelor of Computing student at the University of Sydney majoring in Computer Science. I'm currently building a dockerised TF2 marketplace monitoring bot with a friend to improve my scripting and containerisation skills before starting my cloud internship this summer!   
 
-### My setup ❤️
+### My setup 🖥️
+![My Setup](https://raw.githubusercontent.com/szynl/szynl/main/my%20setup.jpg)
 **GPU**: MSI GeForce RTX 4060  
 **CPU**: AMD Ryzen 5 7500F  
 **RAM**: Klevv Fit V 32GB 6800MHz DDR5  
