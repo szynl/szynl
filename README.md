@@ -9,7 +9,3 @@ I'm Serena, a 3rd year Bachelor of Computing student at the University of Sydney
 **CPU**: AMD Ryzen 5 7500F  
 **RAM**: Klevv Fit V 32GB 6800MHz DDR5  
 **PSU**: Gigabyte P650SS 650W  
-
----
-[![Static Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/serenazhuoyanli/)
-[![Static Badge](https://img.shields.io/badge/Email-black)](mailto:lizhuoyanserena@gmail.com)
