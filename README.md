@@ -1,7 +1,7 @@
 ![Static Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=szynl&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 
 ### About me 👋
-I'm Serena, a 3rd year Bachelor of Computing student at the University of Sydney majoring in Computer Science. I'm currently building a dockerised TF2 marketplace monitoring bot with a friend to improve my scripting and containerisation skills before starting my cloud internship this summer!   
+I'm Serena, a penultimate year Bachelor of Computing student at the University of Sydney. I'm particuarly passionate about optimisation so naturally my interests include hardware, networking and infrastructure. I'm always up for a challenge and the chance to learn new things!       
 
 ### My setup 🖥️
 ![My Setup](https://raw.githubusercontent.com/szynl/szynl/main/my%20setup.jpg)
