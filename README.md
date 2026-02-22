@@ -1,5 +1,5 @@
 ### About me 👋
-I'm Serena, a final year Bachelor of Computing student at the University of Sydney. I love all things hardware related and I'm currently interning at a semiconductor company in their Graphics team. I'm also a big fan of epic fantasy, RPGs, medieval architecture and hiking in my spare time.  
+I'm Serena, a final year Bachelor of Computing student at the University of Sydney. I love all things hardware related and I'm currently interning at a semiconductor company in their Graphics team while finishing off my last year of uni. I'm also a big fan of epic fantasy, RPGs, medieval architecture and hiking in my spare time.  
 
 ### My setup 🖥️
 ![My Setup](https://raw.githubusercontent.com/szynl/szynl/main/setup-january-2026.jpg)
