@@ -1,5 +1,5 @@
 ### About me 👋
-I'm Serena, a final year Computer Science student who loves all things hardware related. I'm currently interning at a semiconductor company in their Graphics team while finishing my last year of study. I'm also a big fan of hiking, reading epic fantasy, playing RPGs and learning about medieval architecture in my spare time.  
+I'm Serena, a final year Computing student who loves all things hardware related. I'm currently interning at a semiconductor company in their Graphics team while finishing my studies before starting full time next year. I'm also a big fan of hiking, reading epic fantasy, playing RPGs and learning about medieval architecture in my spare time.  
 
 ### My setup 🖥️
 ![My Setup](https://raw.githubusercontent.com/szynl/szynl/main/setup-march-2026.jpg)
